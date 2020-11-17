@@ -3,7 +3,7 @@ This is **Part of** our private documents, which we think can be shown to you.
 
 Updating this repository is a manual process, which means it will not be precisely up-to-date. But we will maintain it at least once a week.
 
-Repository last updated: **Nov 3rd**
+Repository last updated: **Nov 17th**
 
 Maintainer: Yiming Tang (baisebaoma)
 
@@ -166,4 +166,49 @@ Details of survey and two implementation of correctness discussed, website put i
 
 Website, survey, some of the interview quetsions, correctness implementation scheme, requirements writing confirmed.
 
-Prepare for literature review, Interim Report, questionnaire and interview/
+Prepare for literature review, Interim Report, questionnaire and interview.
+
+### Nov. 4th
+
+Ethics attachment updated
+
+### Nov. 5th
+
+Decided to havae the last chairperson review what we have done last week, before any informal meeting
+
+literature review first version of paragraph ddl 2020/11/09
+
+Focus group questions will be further determined in 2020/11/06~2020/11/07
+
+Requirement will be done expected in 4 to 5 days after Dave's approval
+
+### Nov. 6th
+
+Learn LaTex
+
+Focus group (y1 & y2) in 7th, y3 one will be held next week
+
+Questionnaire ready to post
+
+Prototype mini version to be produced (any idea by any member is acceptable)
+
+### Nov. 7th
+
+Focus group (y1 & y2) done
+
+### Nov. 10th
+
+Questionnaire result analysis, focus group analysis, prototype and interview discussed.
+
+### Nov. 11th
+
+VIP session. We gathered useful ideas from them.
+
+### Nov. 12th
+
+Formal meeting.
+
+Requirement Engineering process, questionnaire and focus group reported to Dr. Heshan
+
+Questions about deciding either functionality or playfulness. Dr. Heshan says they are not confilct. 
+
